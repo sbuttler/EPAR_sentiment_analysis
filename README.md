@@ -14,5 +14,7 @@ Then activate your virtual envionment:
 ## Instructions
 
 The raw sentences can be cleaned using ```Data_prep.ipynb```.
+
 The sentiment model can be found in ```Logistic_regression_model.ipynb```. It can be used independently from data cleaning.
+
 The notebook ```Extract_sentences_from_EPARs.ipynb``` can be used to extract relevant sentences from a given EPAR.
